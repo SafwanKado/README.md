@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Safwan Kado 👋
 **Full-Stack Software Engineer • UI/UX Enthusiast • Open Source Builder**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **[Project Name]** — a brief 5-word description of what it does.
+- 🔭 Currently building **Dental Clinic Website and System** — a modern website for patients to booking an appointment with dentist, and dentist system to manage patients.
 - 🌱 Exploring modern web architecture, clean UI systems, and scalable backends.
 - 💡 Passionate about turning complex workflows into simple, intuitive interfaces.
 
